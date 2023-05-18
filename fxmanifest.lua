@@ -8,16 +8,16 @@ shared_scripts {
 
 client_scripts {
 	'@es_extended/imports.lua', -- Uncomment if using esx
-    'client/client.lua',
-    'client/functions.lua'
+    'client.lua',
+    'functions.lua'
 } 
  
 server_scripts {
 	'@es_extended/imports.lua', -- Uncomment if using esx
-    'server/server.lua'
+    'server.lua'
 } 
 
 escrow_ignore {
-  'client/functions.lua',  -- Only ignore one file
+  'functions.lua',  -- Only ignore one file
   'config.lua'
 }
