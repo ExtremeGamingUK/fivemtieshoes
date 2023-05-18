@@ -8,3 +8,5 @@ To add this to a radial menu or something alike, add these to your client file w
 ExecuteCommand('tieshoes')
 ExecuteCommand('untieshoes')
 (obviously if you have changed the command names inside of the config, you those commands name in the above 2 lines of code)
+
+https://forum.cfx.re/t/standalone-qb-esx-bj-tie-shoes/5096216
